@@ -24,6 +24,7 @@ libpng=1.6.17=0
 libsodium=0.4.5=0
 llvmlite=0.4.0=py34_0
 markupsafe=0.23=py34_0
+matplotlib=1.4.3=np19py34_2
 mistune=0.5.1=py34_1
 multipledispatch=0.4.7=py34_0
 networkx=1.9.1=py34_0
@@ -38,6 +39,7 @@ psutil=2.2.1=py34_0
 ptyprocess=0.4=py34_0
 pygments=2.0.2=py34_0
 pymongo=2.8=py34_0
+pyparsing=2.0.3=py34_0
 pyqt=4.11.3=py34_0
 pytables=3.1.1=np19py34_2
 python=3.4.3=0
