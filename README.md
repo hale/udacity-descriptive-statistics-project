@@ -55,6 +55,8 @@ take the value printed on the card, and the Jack, Queen, and King each take a va
 ## INSTALL
 
 ```
-conda create -n newenv --file exported_packages.txt
-source activate newenv
+cd udacity-descriptive-stats-env
+conda env create
+source activate udacity-descriptive-stats
+source activate udacity-descriptive-stats
 ```
