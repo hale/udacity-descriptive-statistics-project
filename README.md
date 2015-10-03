@@ -55,8 +55,7 @@ take the value printed on the card, and the Jack, Queen, and King each take a va
 ## INSTALL
 
 ```
-cd udacity-descriptive-stats-env
-conda env create
-source activate udacity-descriptive-stats
-source activate udacity-descriptive-stats
+conda create -n ud827 anaconda
+source activate uda827
+ipython notebook
 ```
