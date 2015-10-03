@@ -56,6 +56,6 @@ take the value printed on the card, and the Jack, Queen, and King each take a va
 
 ```
 conda create -n ud827 anaconda
-source activate uda827
+source activate ud827
 ipython notebook
 ```
