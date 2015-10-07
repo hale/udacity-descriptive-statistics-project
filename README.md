@@ -4,6 +4,8 @@
 
 (Text contained in this document available freely online, presumed © 2011-2015 Udacity, Inc.)
 
+Deliverable: https://github.com/hale/udacity-descriptive-statistics-project/blob/master/notebook.ipynb
+
 ## Overview
 
 Welcome to the Descriptive Statistics Final Project! In this project, you will demonstrate what you
