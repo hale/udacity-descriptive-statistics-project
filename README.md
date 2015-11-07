@@ -4,7 +4,11 @@
 
 (Text contained in this document available freely online, presumed © 2011-2015 Udacity, Inc.)
 
-Deliverable: https://github.com/hale/udacity-descriptive-statistics-project/blob/master/notebook.ipynb
+## Deliverable
+
+https://github.com/hale/udacity-descriptive-statistics-project/blob/master/notebook.ipynb
+
+> ![notebook_screenshot](https://github.com/hale/udacity-descriptive-statistics-project/blob/master/notebook_screenshot.png)
 
 ## Overview
 
